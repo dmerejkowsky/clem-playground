@@ -1,3 +1,3 @@
-# Welcomme to playground
+# Welcome to playground
 
 There is a missstake here
